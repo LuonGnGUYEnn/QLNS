@@ -1,0 +1,17 @@
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.DangNhap.resources
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.fPhongBan.resources
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.fHoSoNV.resources
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.Properties.Resources.resources
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.QuanLyNhanSu.resources
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.exe.config
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.exe
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.pdb
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.exe
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.pdb
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.fChucVu.resources
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.fTrinhDoNN.resources
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.fQuaTrinhCongTac.resources
+F:\C#\BTL LTTQ\Quản Lý Nhân Sự -----\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.ThongTinTK.resources
